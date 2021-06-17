@@ -1,0 +1,17 @@
+{
+"companyName": "Square Clickerz GmbH",
+"productName": "Square Clickerz",
+"productVersion": "1.0",
+"dataUrl": "Square_Clickerz_08_3D_WebGL.data.unityweb",
+"asmCodeUrl": "Square_Clickerz_08_3D_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Square_Clickerz_08_3D_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Square_Clickerz_08_3D_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
